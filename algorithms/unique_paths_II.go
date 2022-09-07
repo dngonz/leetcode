@@ -1,4 +1,4 @@
-package unique_paths_II
+package algorithms
 
 func uniquePaths(obstacle [][]int) int {
 	if len(obstacle) == 0 {

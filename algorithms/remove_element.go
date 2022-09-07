@@ -1,4 +1,4 @@
-package remove_element
+package algorithms
 
 func removeElement(nums []int, val int) int {
 	var index int
